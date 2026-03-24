@@ -1,0 +1,7 @@
+{
+  "prompt": "A macro photograph of three vintage wooden entomology display boxes lined up side-by-side on a dusty museum table. They represent a chronological timeline. The box on the far left is violently overflowing with hundreds of densely pinned, vibrant, shimmering insects, moths, and beetles, covering every inch of the cork. The middle box is half-empty. The box on the far right, positioned in the sharpest foreground focus, is hauntingly bare—displaying only three lonely, faded moths surrounded by dozens of empty, rusty pins sticking out of the blank white corkboard. Melancholy, cinematic lighting, profound sense of loss and emptiness. No text, no labels, no numbers, no floating graphs.",
+  "model": "GPT Image 1.5 (via ChatGPT)",
+  "dataset_name": "Krefeld Entomological Society Study (Flying Insect Biomass Decline)",
+  "dataset_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185809",
+  "insight": "A terrifying 76% decline in flying insect biomass over recent decades is leaving our ecosystems hauntingly empty."
+}
